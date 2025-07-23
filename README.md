@@ -25,8 +25,7 @@ File → Import... → Existing Projects into Workspace
 4. Rebuild project dependenciesFile 
 
 ## Usage
-Initialization :  GPIO_Init()  
-Define ADC resolution : ADC_resolution_calculation(ADC_bit_resolution)
+Initialization :  GPIO_Init(), exti_0_Init()
 Interrupt handling : EXTI0_IRQHandler() 
 Toggle LED4 : exti_callback()
 
