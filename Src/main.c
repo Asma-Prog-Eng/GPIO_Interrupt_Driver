@@ -5,7 +5,7 @@
  * @author         : Asma Askri
  * @brief          : Main program body
  ******************************************************************************
- * Bare metal ADC GPIO Interrupt Driver implementation
+ * Bare metal Implementation of a GPIO Interrupt Driver 
  * If button B1 is pressed, an interrupt is generated
  * to toggle LD4
  ******************************************************************************
